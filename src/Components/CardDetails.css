@@ -1,0 +1,23 @@
+#masterCard {
+  width: 170%;
+  height: 90%;
+  margin-left: -71%;
+}
+
+#masterLogo {
+  width: 70%;
+  height: 50%;
+  margin-top: 17%;
+}
+
+form {
+  font-weight: bold;
+  font-family: Roboto;
+  color: white !important;
+}
+
+div {
+  font-family: Roboto;
+  color: white;
+  font-size: x-small;
+}

@@ -1,0 +1,13 @@
+td {
+  text-align: left;
+  vertical-align: middle;
+}
+
+#pointer {
+  cursor: pointer;
+}
+
+input[type="text"] {
+  background: transparent;
+  border: 1px solid #c6c6c6;
+}
